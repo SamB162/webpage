@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: rgb(176, 139, 139);
+    color: rgb(205, 205, 205);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+  
+  article {
+    padding: 20px;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: rgb(58, 38, 38);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+  }
